@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于表达和思考以及解决问题的逻辑</title>
+    <url>/2020/04/25/%E5%85%B3%E4%BA%8E%E8%A1%A8%E8%BE%BE%E6%80%9D%E8%80%83%E5%92%8C%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E9%80%BB%E8%BE%91/</url>
+    <content><![CDATA[<p>小峰正在奋笔疾书中…</p>
+]]></content>
+      <categories>
+        <category>产品经理</category>
+      </categories>
+      <tags>
+        <tag>产品经理</tag>
+        <tag>逻辑性</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常用的UML建模</title>
     <url>/2019/08/11/%E5%B8%B8%E7%94%A8%E7%9A%84UML%E5%BB%BA%E6%A8%A1/</url>
     <content><![CDATA[<p>关于UML，我相信在做B端的产品经理一定知道它的重要性。那么UML常用的图都包含哪些呢？它们又都在什么场景什么阶段使用呢？又如何使用呢？这篇文章主要帮助小伙伴们解答这些问题。</p>
@@ -257,8 +270,8 @@
         <category>产品经理</category>
       </categories>
       <tags>
-        <tag>信息架构</tag>
         <tag>产品经理</tag>
+        <tag>信息架构</tag>
         <tag>产品设计</tag>
         <tag>内容设计</tag>
       </tags>
